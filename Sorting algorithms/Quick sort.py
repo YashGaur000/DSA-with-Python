@@ -17,3 +17,5 @@ def quicksort(arr):
 
 arr=[6, 3, 8, 2, 9, 2]
 print(quicksort(arr))
+
+
