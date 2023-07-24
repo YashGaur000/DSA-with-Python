@@ -1,3 +1,5 @@
+#Finding the number of permutation of a given array
+
 class Solution:
     def permute(self, nums: list[int]) -> list[list[int]]:
         result = []
