@@ -14,3 +14,4 @@ def maxprofit(arr):
 array = [10, 1, 2, 3, 7, 4, 5, 1, 6, 9]
 maxprofit(array)
 
+
